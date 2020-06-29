@@ -1,0 +1,15 @@
+{
+  "name": "markpack-project",
+  "version": "0.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "build": "markpack build -i ./src",
+    "serve": "markpack serve -i ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markpack": "^0.1.0-2"
+  }
+}
